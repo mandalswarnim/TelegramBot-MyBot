@@ -1,10 +1,10 @@
-# TelegramBot-myHomie 🤖
+# TelegramBot-myBot 🤖
 
-### This is myHomie aka powerFull 😱 Telegram Bot with a ability to filll google form.
+### This is myBot aka powerFull 😱 Telegram Bot with a ability to filll google form.
 ### I will update features in coming days.
 ### LOL 😁	
 
-## How to build yourHomie 👽
+## How to build yourBot 👽
 - #### Make your telegram BOT 🛠️
 ```
  1. Open Telegram
@@ -26,7 +26,7 @@
 `` google https://docs.google.com/forms/d/e/someIDs/viewform ``
 - ### If it replied response<200> congratulation all good 
 
-##### [Note: Please be kind to yourHomie]
+##### [Note: Please be kind to yourBot]
 
 
-## Licensed under the [MIT License](LICENSE)
+
