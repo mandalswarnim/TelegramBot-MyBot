@@ -22,13 +22,13 @@ def get_ids(d):
 def get_details(url):
     url = url + '/viewform'
     givenData = {
-        'name':'Ujjal Baniya',
-        'email':'ujjalbaniya@gmail.com',
-        'phone': '9391341962',
+        'name':'Swarnim Mandal',
+        'email':'mswarnim1@gmail.com',
+        'phone': '9846046109',
         'sec':'D',
         'address':'Nepal',
         'comment': 'No comments',
-        'reg': '18B1A05Q3'
+        'reg': '18B1A05Q1'
     }
     url = url +"/viewform"
     html_data = requests.get(url).text
